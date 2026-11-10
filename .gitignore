@@ -1,0 +1,11 @@
+.venv/
+.idea/
+__pycache__/
+.DS_Store
+.idea/.gitignore
+.idea/discord.xml
+.idea/misc.
+.idea/modules.xml
+.idea/vcs.xml
+.idea/wstep-do-programowania-lab.iml
+.idea/inspectionProfiles/profiles_settings.xml
